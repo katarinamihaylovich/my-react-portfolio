@@ -13,7 +13,7 @@ The purpose of this project was to create an online portfolio for myself using R
 
 
 ## Active link:
-https://lulus-portfolio.herokuapp.com/#Home
+https://katarinamihaylovich.github.io/my-react-portfolio/
 
 ## Screenshots:
 
