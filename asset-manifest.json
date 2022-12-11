@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.0a288191.css",
+    "main.js": "/my-react-portfolio/static/js/main.87d7303c.js",
+    "static/media/Lulu-50.jpg": "/my-react-portfolio/static/media/Lulu-50.fcd0466d2c9f49497718.jpg",
+    "static/media/homepage.png": "/my-react-portfolio/static/media/homepage.931b14daa9a5d253e5d2.png",
+    "static/media/filmbuzzss.png": "/my-react-portfolio/static/media/filmbuzzss.48cfb557a86d38d2cc5e.png",
+    "static/media/portfolio.png": "/my-react-portfolio/static/media/portfolio.f2b4746bbc7eb281332f.png",
+    "static/media/aboutme.png": "/my-react-portfolio/static/media/aboutme.f99c7337a8fbf360951a.png",
+    "static/media/contact.png": "/my-react-portfolio/static/media/contact.7da73fcecc4a0ff925ea.png",
+    "static/media/passwordgeneratorss.png": "/my-react-portfolio/static/media/passwordgeneratorss.3385415982f9551441d6.png",
+    "static/media/notetakerss.png": "/my-react-portfolio/static/media/notetakerss.5b58509c10d03cf000f9.png",
+    "static/media/skills.png": "/my-react-portfolio/static/media/skills.432cb86c84254c87445c.png",
+    "index.html": "/my-react-portfolio/index.html",
+    "main.0a288191.css.map": "/my-react-portfolio/static/css/main.0a288191.css.map",
+    "main.87d7303c.js.map": "/my-react-portfolio/static/js/main.87d7303c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a288191.css",
+    "static/js/main.87d7303c.js"
+  ]
+}
