@@ -17,6 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://katarinamihaylovich.github.io/my-react-portfolio/",
   "eslintConfig": {
     "extends": [
       "react-app",
